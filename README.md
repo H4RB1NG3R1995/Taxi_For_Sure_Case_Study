@@ -1,4 +1,4 @@
-# Taxi_For_Sure_Case_Study
+# Taxi_For_Sure_Case_Study_MySQL
 Case study done as part of SQL module at Ivy Professional School
 
 Questions:
